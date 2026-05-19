@@ -6,4 +6,4 @@ typing
 numpy
 lightgbm
 pandas
-skit-learn
+scikit-learn
